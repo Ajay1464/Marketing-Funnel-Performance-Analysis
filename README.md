@@ -1,6 +1,6 @@
-# FUTURE_DS_03
 
-## Marketing Funnel Performance Analysis – Task 3
+
+## Marketing Funnel Performance Analysis 
 
 This project analyzes user behavior across an e-commerce marketing funnel using Power BI. The dashboard tracks user actions from product views to cart additions and final purchases to understand conversion performance and drop-off points.
 
